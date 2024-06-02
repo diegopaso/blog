@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bienvenido"
-date: 2024-06-02 13:32:44
+date: 2024-06-02 12:32:44
 image: '/assets/img/'
 description: 'First steps to use this template'
 tags:
