@@ -5,7 +5,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://diegopaso.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Yo soy Diego Palacios
+username: Diego Palacios
 user_description: Tecnófilo
 user_title: Padre y consejero. Soluciono problemas.
 email: diego@rosanegra.org
