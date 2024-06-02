@@ -3,7 +3,7 @@ layout: post
 title: "Bienvenido"
 date: 2024-06-01 12:32:44
 image: '/assets/img/'
-description: 'First steps to use this template'
+description: 'Primeros pasos'
 tags:
 - jekyll  
 categories:
