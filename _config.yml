@@ -9,10 +9,10 @@ username: Yo soy Diego Palacios
 user_description: Tecnófilo
 user_title: Padre y consejero. Soluciono problemas.
 email: diego@rosanegra.org
-twitter_username: lorem_ipsum
+twitter_username: 
 github_username:  diegopaso
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+gplus_username:  
+disqus_username: 
 
 # Build settings
 markdown: kramdown
@@ -29,15 +29,15 @@ compress_html:
 
 # Links to include in menu navigation
 # For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
-  - title: About Me
-    url: /about
+#links:
+#  - title: Home
+ #   url: /
+ # - title: Series
+#    url: /series
+#  - title: Tags
+#    url: /tags
+#  - title: About Me
+#    url: /about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
